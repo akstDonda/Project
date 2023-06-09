@@ -1,0 +1,7 @@
+hii,
+  -that only amazon clone
+  -that is copy of amazon.com
+  -here only html,css
+  -all picture present in asset file
+  -use "https://fontawesome.com/icons" this website for icon
+  
